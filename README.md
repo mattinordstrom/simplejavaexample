@@ -1,5 +1,5 @@
 # simplejavaexample
 
-javac HelloWorld.java 
+$ javac HelloWorld.java 
 
-java HelloWorld
+$ java HelloWorld
