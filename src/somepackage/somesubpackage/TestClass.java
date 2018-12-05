@@ -1,4 +1,4 @@
-package somepackage;
+package somepackage.somesubpackage;
 
 public class TestClass
 {

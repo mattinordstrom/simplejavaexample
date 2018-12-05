@@ -1,4 +1,6 @@
-import somepackage.TestClass;
+package somepackage;
+
+import somepackage.somesubpackage.TestClass;
 
 /* This is a simple Java program. 
    FileName : "HelloWorld.java". */
