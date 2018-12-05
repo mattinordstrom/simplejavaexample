@@ -11,6 +11,11 @@ Run directly:
 $ java somepackage.HelloWorld
 ```
 
+Compile and run with arg:
+```sh
+$ javac -d . somepackage/HelloWorld.java && java somepackage.HelloWorld Banana!
+```
+
 Create jar:
 ```sh
 $ jar cfe myJar.jar somepackage.HelloWorld somepackage/HelloWorld.class somepackage/somesubpackage/*.class   
